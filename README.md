@@ -11,3 +11,5 @@ Calculate only once. Normalize the results to the [0,1] range by dividing the re
 2. Measuring System Success with Sample Test Pictures: Perform the following steps during the test phase.
 a. Calculate the histograms of the test image (R,G,B) and (H) for each test image as you did for the training samples.
 b. While measuring the similarities of the pictures, calculate the distance of the given test picture to all the training pictures separately for the (R, G, B) space and (H) using the Euclidean Distance method. For both spaces, find the 5 images in which the test image is most similar. 
+
+To test this program, extract database.zip into the same directory with ana.py, then run python script.
