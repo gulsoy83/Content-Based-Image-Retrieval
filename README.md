@@ -13,3 +13,11 @@ a. Calculate the histograms of the test image (R,G,B) and (H) for each test imag
 b. While measuring the similarities of the pictures, calculate the distance of the given test picture to all the training pictures separately for the (R, G, B) space and (H) using the Euclidean Distance method. For both spaces, find the 5 images in which the test image is most similar. 
 
 To test this program, extract database.zip into the same directory with ana.py, then run python script.
+
+***
+rgborg0 and horg0 is the original image. Other images are the most similar ones to the original from the database.
+
+![h0](https://github.com/gulsoy83/Content-Based-Image-Retrieval/assets/46426033/23cba8c6-d907-49ee-a49a-a72cb5f17107)
+![rgb0](https://github.com/gulsoy83/Content-Based-Image-Retrieval/assets/46426033/31db0a35-bbac-49f1-86eb-38a2496c499f)
+
+
