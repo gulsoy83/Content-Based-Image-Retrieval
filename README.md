@@ -17,7 +17,8 @@ To test this program, extract database.zip into the same directory with ana.py, 
 ***
 rgborg0 and horg0 is the original image. Other images are the most similar ones to the original from the database.
 
-![h0](https://github.com/gulsoy83/Content-Based-Image-Retrieval/assets/46426033/23cba8c6-d907-49ee-a49a-a72cb5f17107)
+![h0](https://github.com/gulsoy83/Content-Based-Image-Retrieval/assets/46426033/23cba8c6-d907-49ee-a49a-a72cb5f17107)  
+  
 ![rgb0](https://github.com/gulsoy83/Content-Based-Image-Retrieval/assets/46426033/31db0a35-bbac-49f1-86eb-38a2496c499f)
 
 
